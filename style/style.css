@@ -14,7 +14,7 @@ body {
     align-items: center;
     background-color: #E554731A;
     padding: 20px 0px 0px 0px;
-    /* width: 100% */
+    width: 100%
 }
 
 .header-section .feature-image {
@@ -30,8 +30,8 @@ body {
 
 .header-image {
     padding: 0px 200px 0px 0px;
-    /* width: 635px;
-    height: 800px;     */
+    width: 635px;
+    height: 800px;
 }
 
 .header-title {
@@ -87,6 +87,10 @@ body {
     font-style: normal;
     font-weight: 400;
     line-height: 30px;
+    width: 600px;
+    height: 60px;
+    margin-left: 660px;
+    align-items: center;
     padding: 25px 0px 50px 0px;
 
 }
@@ -125,18 +129,20 @@ body {
     font-weight: 700;
     line-height: 35px;
     text-decoration-line: underline;
+    padding-top: 30px;
 }
 
 /* feature flowers end  */
 
 /* hot deal section styles start */
 .hot-deal {
-    margin: 100px 0px;
+    margin: 120px 0px;
     display: flex;
     gap: 100px;
     justify-content: center;
     align-items: center;
     background-color: #E554730D;
+    padding: 80px 0px;
 }
 
 .hot-deal-title {
@@ -207,7 +213,7 @@ span {
     align-items: center;
     justify-content: center;
     gap: 25px;
-    padding: 20px 200px 128px 200px;
+    padding: 50px 200px 128px 200px;
 
 }
 
@@ -237,7 +243,7 @@ span {
     font-style: normal;
     font-weight: 400;
     line-height: 30px;
-    padding: 20px 0px;
+    padding: 20px 0px 50px 0px;
 }
 
 .get-the-deals-form {
@@ -250,6 +256,15 @@ span {
     margin-right: 20px;
     padding-left: 20px;
 
+}
+
+::placeholder {
+    color: rgba(39, 39, 39, 0.60);
+    font-family: Lato;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
 }
 
 /* get the deals style end */
