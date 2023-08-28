@@ -1,0 +1,16 @@
+/* common styles */
+*{
+    margin: 0px;
+}
+body{
+    font-family: 'Lato', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+}
+/* header section styles */
+.header-section{
+    display: flex;
+    align-items: center;
+    background-color:#E554731A ;
+    width: 1920px;
+    height: 850px;
+}
