@@ -222,7 +222,7 @@ span {
 /* get the deal styles start */
 .get-the-deals {
     margin: 0px 240px;
-    background-image: url('/Flower asset/Rectangle\ 9.png');
+    background-image: url('../images/Rectangle\ 9.png');
     padding: 100px;
     margin-bottom: 50px;
 }
