@@ -65,14 +65,15 @@ body {
 /* header section end */
 
 /* about section style start */
-.about{
+.about {
     display: flex;
     justify-content: center;
     align-items: center;
     background-color: #EEEEEE;
-    padding: 50px 200px 0px 140px ;
+    padding: 50px 200px 0px 140px;
 }
-.about-title{
+
+.about-title {
     color: #272727;
     text-align: left;
     font-size: 60px;
@@ -80,16 +81,19 @@ body {
     line-height: normal;
 
 }
-.about-paragraph{
+
+.about-paragraph {
     color: #272727;
     font-size: 18px;
     font-style: normal;
     line-height: 35px;
     padding: 10px 100px 20px 0px;
 }
-.about-image{
+
+.about-image {
     padding-right: 150px;
 }
+
 /* about section style end */
 
 /* feature section styles start */
