@@ -66,9 +66,35 @@ body {
 
 /* header section end */
 
-/* feature flowers start  */
-.feature-section {
-    margin: 100px 0px;
+/* about section style start */
+.about{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #EEEEEE;
+    padding: 50px 200px 0px 140px ;
+}
+/* .about-text{
+
+} */
+.about-title{
+    color: #272727;
+    text-align: left;
+    font-size: 60px;
+    font-weight: 800;
+    line-height: normal;
+
+}
+.about-paragraph{
+    color: #646464;
+    font-size: 25px;
+    font-style: normal;
+    line-height: 30px;
+    padding: 10px 100px 20px 0px;
+}
+.about-image{
+    padding-right: 100px;
+}
 }
 
 .feature-title {
