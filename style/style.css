@@ -24,8 +24,6 @@ body {
 
 .header-text {
     padding: 0px 160px;
-    /* width: 708px;
-    height: 506px; */
 }
 
 .header-image {
@@ -74,9 +72,6 @@ body {
     background-color: #EEEEEE;
     padding: 50px 200px 0px 140px ;
 }
-/* .about-text{
-
-} */
 .about-title{
     color: #272727;
     text-align: left;
@@ -86,16 +81,18 @@ body {
 
 }
 .about-paragraph{
-    color: #646464;
-    font-size: 25px;
+    color: #272727;
+    font-size: 18px;
     font-style: normal;
-    line-height: 30px;
+    line-height: 35px;
     padding: 10px 100px 20px 0px;
 }
 .about-image{
-    padding-right: 100px;
+    padding-right: 150px;
 }
+/* about section style end */
 
+/* feature section styles start */
 .feature-title {
     color: #272727;
     text-align: center;
@@ -103,6 +100,7 @@ body {
     font-style: normal;
     font-weight: 800;
     line-height: normal;
+    margin-top: 100px;
 }
 
 .feature-text {
